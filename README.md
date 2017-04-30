@@ -1,0 +1,2 @@
+# evbot
+Discord @everyone spambot
